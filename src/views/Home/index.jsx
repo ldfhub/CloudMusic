@@ -1,10 +1,11 @@
 import React, { Component } from 'react';
+import Header from '../../component/header/Header'
 
 class index extends Component {
   render() {
     return (
       <div>
-        这是首页
+        <Header></Header>
       </div>
     );
   }

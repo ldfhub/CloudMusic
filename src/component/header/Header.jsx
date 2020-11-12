@@ -1,7 +1,7 @@
 import { Header } from 'antd/lib/layout/layout';
 import React, { Component } from 'react';
 
-import HeaderLeft from './styleHeader'
+import Header from './styleHeader'
 
 class header extends Component {
   render() {
